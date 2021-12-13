@@ -13,7 +13,13 @@ Start the backend server before the frontend client.
 
 ## Frontend
   1. Install
-  2. `cd frontend`.
+  2. `cd EcommerceFront`.
   3. Run `npm install`.
   4. Run `ng serve`
   5. The frontend client is running on [localhost:4200]().
+
+
+Created as a mini project for technical training by https://virtualcoach.jnaapti.io/.
+Contributors: Keshav Agrawal and Neeraj Kumar
+Angular Frontend by Keshav Agrawal (https://github.com/KeshavKAgrawal)
+Spring Boot Backend by Neeraj Kumar (https://github.com/neeraj132926)
