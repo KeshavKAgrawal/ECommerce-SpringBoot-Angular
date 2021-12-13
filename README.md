@@ -19,7 +19,7 @@ Start the backend server before the frontend client.
   5. The frontend client is running on [localhost:4200]().
 
 
-Created as a mini project for technical training by https://virtualcoach.jnaapti.io/.
-Contributors: Keshav Agrawal and Neeraj Kumar
-Angular Frontend by Keshav Agrawal (https://github.com/KeshavKAgrawal)
-Spring Boot Backend by Neeraj Kumar (https://github.com/neeraj132926)
+Created as a mini project for technical training by https://virtualcoach.jnaapti.io/.  
+Contributors: Keshav Agrawal and Neeraj Kumar.  
+Angular Frontend by Keshav Agrawal (https://github.com/KeshavKAgrawal)  
+Spring Boot Backend by Neeraj Kumar (https://github.com/neeraj132926)  
