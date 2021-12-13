@@ -1,7 +1,5 @@
 # How to  Run
 
-Start the backend server before the frontend client.  
-
 ## Backend
 
   1. Install [MySQL] 
